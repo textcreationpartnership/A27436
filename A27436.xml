@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations vpon Prince Rvperts white dog called Boy carefully taken by T.B. for that purpose imployed by some of quality in the city of London.</title>
+            <author>T. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27436</idno>
+            <idno type="STC">Wing B194</idno>
+            <idno type="STC">ESTC R223584</idno>
+            <idno type="EEBO-CITATION">13413843</idno>
+            <idno type="OCLC">ocm 13413843</idno>
+            <idno type="VID">99466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99466)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 782:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations vpon Prince Rvperts white dog called Boy carefully taken by T.B. for that purpose imployed by some of quality in the city of London.</title>
+                  <author>T. B.</author>
+                  <author>T. P.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. [8]: T.P.</note>
+                  <note>Wing and BM attribute to T.B.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>A satire upon Puritans.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Humor.</term>
+               <term>Puritans --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99466:1" rendition="simple:additions"/>
+            <p>
+               <hi>OBSERVATIONS VPON</hi> PRINCE <hi>RVPERT'S VVHITE DOG,</hi> CALLED <hi>BOY:</hi>
+            </p>
+            <p>Carefully taken by <hi>T. B.</hi> For that purpoſe im<g ref="char:EOLhyphen"/>ployed by ſome of quality in the City of <hi>LONDON.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a dog (probably meant to be Prince Rupert's dog, Boy)</figDesc>
+            </figure>
+            <p>
+               <hi>Printed in the Yeere,</hi> MDCILII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99466:2"/>
+            <head>OBSERVATIONS <hi>
+                  <g ref="char:V">Ʋ</g>pon Prince</hi> RUPERT<hi>'S white Dogge called</hi> BOYE.</head>
+            <opener>
+               <salute>Right Worſhipfull,</salute>
+            </opener>
+            <p>SInce the unfortunate death of Mr. <hi>Blake,</hi> I have, according to the direction of the two Secretaries you named to mee, had a ſtrict eye upon Prince <hi>Ruperts</hi> Dogge called BOY; whom I cannot conclude to bee a very downright Divell, (as is ſuppoſed) or a ſpirit ſent to nouriſh diviſion in Church or State (though I muſt confeſſe the <hi>Iriſh</hi> Papiſts are very familiar with him in private) but certainly he is ſome <hi>Lapland</hi> Lady, who by nature was once an handſome white woman, and now by Art is become an handſome white Dogge, and hath vowed to follow the Prince to preſerve him from miſchiefe. Which I doubt not to induce you to beleeve, when I ſhall have delivered you my Obſervations, firſt of his <hi>Qualities,</hi> next of his <hi>Behaviour</hi> to others, and laſtly, of others <hi>Behaviour</hi> to him.</p>
+            <div n="1" type="part">
+               <head>I. <hi>For his Qualities.</hi>
+               </head>
+               <p n="1">1. IN the firſt place, He can Prophecie. I mean not as our Ma<g ref="char:EOLhyphen"/>ſter <hi>Green</hi> the Haberdaſher doth Prophecy, that is, expound the Scripture by private Spirit; but he prophecies of future events; and his Maſters footman, a <hi>Laplander,</hi> doth expound him. Among other things, he hath prophecyed, that the King ſhall en<g ref="char:EOLhyphen"/>ter London before <hi>May</hi> day next, with threeſcore thouſand horſe and foote; that the Dogge himſelfe ſhall be Courted, that he ads, more round then his own, ſhall bow to him; that he ſhall ride in a City Pageant triumphantly overlooking the people, and be feaſted by a lawfull Lo. Major; and that the City, Laſty, ſhal prof<g ref="char:EOLhyphen"/>fer him two tubs of Cuſtard-ſtuffe a week to bathe in, which he is not yet reſolved to accept of. And it is thought that his Prophe<g ref="char:EOLhyphen"/>cies (for now at laſt they begin to turne our own arts upon us) will be printed here in <hi>Oxford</hi> in oppoſition to M. <hi>Bookers</hi> Almanacks.</p>
+               <p n="2">2. He hath the art of finding out Concealed goods, for ſince <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he King hath beene reſident in the Univerſity, he and the Heads
+<pb facs="tcp:99466:2"/> of both Houſes have diſcovered the plate, that the Lord <hi>Say</hi> and Sir <hi>Iohn Seton</hi> could not; which for feare it may hereafter fall into ſuch hands (I deſire you to conceive I ſpeak their words) the Uni<g ref="char:EOLhyphen"/>verſity deſires may be melted down in <hi>New-Inne Hall</hi> (an houſe that accounts caſting of <hi>Dollars</hi> lawfull) and coyned for the uſe of the King and true Parliament.</p>
+               <p n="3">3 He is endued with the gift of Languages, which yet he hath the art to hide very well. For with a kinde of generous confi<g ref="char:EOLhyphen"/>dence he mounts the Table and the cupboard, under a pretence of courting his Maſter, and by that cunning meanes hath his care oftner then his Barber hath: for the Prince taketh but little care of his head. Beſides he whiſpers thoſe of the Noble men that are moſt true to the King, as often as the ſpirit doth <hi>M. Caſe,</hi> or thoſe godly Teachers that are moſt true to the Parl. Some of great place and good account, who love to eveſ-drop all informations, have ſworn to me they plainly diſtinguiſh the accents of the Dogs lan<g ref="char:EOLhyphen"/>guage to ſound like our <hi>Hebrew.</hi> Whereupon I adviſed with ſome of the Profeſſous here, (who in their hearts incline to our Side) who out of curioſity preffed neare, but they told me his whiſpers then ſeemed to them to be a mixt language, ſomewhat between <hi>Hebrew</hi> &amp; <hi>High dutch</hi> which (they ſay) if any, was moſt probably the language of the Beaſts before the curſe. He alſo diſcourſeth ordinarily with ſome Maſters of Art, and many times underſtands them more, then it is poſſible they ſhould underſtand one ano<g ref="char:EOLhyphen"/>ther: which kind of diſcourſe they truly call Chopping of Lo<g ref="char:EOLhyphen"/>gick. This quality admits him into all company, whoſe relations he relates to his Maſter, and his Maſter again to the King, and thus all our ſpies are diſcovered, and <hi>BOY</hi> doth that which many of the Kings own ſervants will not.</p>
+               <p n="4">4 He is weapon-proofe himſelf, and probably hath made his Maſter ſo too, my ſelf and the reſt whom you have imployed to be of the conſpiracy againſt him, have alwayes failed of our at<g ref="char:EOLhyphen"/>tempts, as if ſomething more then witchcraft watcht over him. Once I gave him a very hearty ſtroke, with a confiding Dagger, but it ſlided off his skin as if it had beene Armour of proofe nointed overwith Quick-ſilver. Beſides he hath been tempted with pieces of Capon and other choice morcells, as well ſeaſoned
+<pb facs="tcp:99466:3"/> all, as poyſon and extemporary prayer could doe it: but the Cur as obſtinately rejected them, as if he had knowne beforehand what they were, ſo that they hurt him no more then the plague-plaiſter, ſent in the Letter did Mr. <hi>Pym.</hi> That which they ſay of him, that he uſually ſets his mouth as <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> trap, and catcheth bullets as they flie, (though you ſhall never ſee him, but with a brace hanging under his taile, as if he had but lately ſwallowed them, &amp; were ſtil ready to void them) upon my credit it is a meere ſlander. But it is moſt certaine that hee doth things neare as ſtrange. For when his Maſter the Prince hath forgot to put his characters be<g ref="char:EOLhyphen"/>tween his ſhirt and his skin, ſome bullets he blows by, others hee breakes the force of ſo that they either no more touch him, then if they were aimed at the edge of a penknife, or if they doe, doe him no more harm then they would have done, if he had his characters about him. He is of too much valour himſelf; and though what my L. <hi>Brooks</hi> told you in a ſpeech at <hi>Guild Hall,</hi> a<g ref="char:EOLhyphen"/>bout our very Dogs being killed, be in the thing true enough, yet notwithſtanding his Lp. hath wrote a booke of truth, by his fa<g ref="char:EOLhyphen"/>vour I muſt tell him he was miſtaken in the perſon that did the ex<g ref="char:EOLhyphen"/>ecution; for upon my word, the Kings men killed our men, and none but the Princes Dog killed our Dogs.</p>
+               <p n="5">5 And laſtly. He can goe inviſibly himſelf, and make others doe ſo too. He hath often been where no body hath ſeen him, &amp; done that that no body elſe could. Who think you conveid <hi>Oneal</hi> out of the Tower? even BOY. Who conveid the L. <hi>Digby</hi> firſt in to <hi>Hull</hi> afterwards out againe? even BOY. Who got <hi>Legg</hi> out of priſon? even BOY. who releaſed <hi>Bamfield?</hi> verily BOY ſtill. Yet who all this while leſſe ſuſpected then BOY? and now, if ever, I beſeech you have an eye to your ſelves; for he goes oftner be<g ref="char:EOLhyphen"/>tween <hi>Oxford</hi> and <hi>London,</hi> every weeek, then the three Carriers doe. He conveies Letters without being broken open, and brings mony without being robbed. He it is that layes the Apprentiſes Deſigne in one ſhape, and then leads them on to the Action in a<g ref="char:EOLunhyphen"/>nother: one day he is <hi>Philip</hi> the Shoomaker, and another day <hi>Tom</hi> the Barber. And when he would find out our counſells, he min<g ref="char:EOLhyphen"/>gles himſelf with the good apprentiſes; ſometime appears like <hi>Ezekiel,</hi> M. <hi>Boſtock</hi> the bookbinders boy; and ſometimes like <hi>Na<g ref="char:EOLhyphen"/>thaniel,</hi>
+                  <pb facs="tcp:99466:3"/> Mrs. <hi>Greens</hi> Freeman. Under theſe diſguiſes he brings us falſe Informations, and carries them true, and certainly no one elſe infuſeth into the Apprentices what they ſhould doe for the King, and what againſt my Lord <hi>Say.</hi> This he doth himſelf. Then upon my certain knowledge he doth uſually break a black cloud about Prince <hi>Rupert</hi> too, in which hee goes as inviſible as our Church, or our Faith doth, or as our Charity ſhould. And by this myſticall meanes it was, that the Prince ſo often paſſed our Guards undiſcovered, and by ſo many diſguiſes entred thoſe Townes of Ours, which the book to that purpoſe ſets down very edifyingly. By this meanes he was the Appleman at <hi>Dunſmore<g ref="char:EOLhyphen"/>heath,</hi> the Netſeller in <hi>Coventry,</hi> and the Old woman in <hi>Warwick:</hi> By this meanes he is all things and nothing, and no doubt is often at our common-Councell in <hi>London,</hi> marking out ſome of Our Citizens for death, and ſome of their wives for life, ſome of our Aldermen for plunder, &amp; ſome perhaps for ſport: Which tokens becauſe they proceed from the aſſiſtance of this Dogge, and are faſtned on us, we may truly call the Marks of the Beaſt upon the Godly.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>For his behaviour to Others.</hi>
+               </head>
+               <p>2. FIrſt in reſpect to Civill (or rather uncivill) affaires, I finde it very Looſe, and Strumpet-like. For hee ſalutes and kiſ<g ref="char:EOLhyphen"/>ſeth the Prince, as cloſe as any Chriſtian woman would; and the Prince ſalutes &amp; kiſſeth him back again as ſavourly, as he would (I will not ſay an Aldermans wiſe, but) any Court-Lady, and is as little offended with his Breathing. Then they lye perpetu<g ref="char:EOLhyphen"/>ally in one bed, ſometimes the Prince upon the Dog, and ſome<g ref="char:EOLhyphen"/>times the Dog upon the Prince; and what this may in time pro<g ref="char:EOLhyphen"/>duce, none but the cloſe Committee can tell. Next to his Maſter, he loves the King, &amp; the Kings Children, and cares very little for any other. For, (that I may give you a late obſervation,) When Our ſix Aldermen delivered the City-petition, the Dog lay juſt before Alderman <hi>Garret,</hi> with his eyes fixt on the King and his Maſter, and with one foot on the Kings toe, &amp; another on Prince <hi>Charles</hi> his: and whiles Maſter <hi>Skinner</hi> was reading the Petition, though hee read it ſo that few conceived what they meant by it, yet the Dog jogd them ſtil in the right place, not a pithy period,
+<pb facs="tcp:99466:4" rendition="simple:additions"/> or good word eſcaped him, as if he had known the meaning of it as well as the Bearers themſelves did: But, what was moſt re<g ref="char:EOLhyphen"/>markeable; when that Juditious and Alderman-like Clauſe came (the King ſhould returne into their ſafe Cuſtody) this Devil-Dogge preſſed the little Princes foot ſo hard, that hee was for<g ref="char:EOLhyphen"/>ced to hemme aloud to recover his Spirits: By which we may ſee plainly, this Dogge likes not the Kings return to <hi>London</hi> without his Army.</p>
+               <p>Next in reſpect to ſpirituall Affaires; In all exerciſes of Reli<g ref="char:EOLhyphen"/>gion he carries himſelfe moſt Popiſhly and Cathedrally. He ob<g ref="char:EOLhyphen"/>ſerves our Faſts, no more then we doe their Feaſts; He never is at any private Prayers, and very ſeldome at any conſcionable Ser<g ref="char:EOLhyphen"/>mons. But as for publique Prayers, he ſeldome or never miſſeth them: and he no ſooner enters the Quire, but he preſently trotts up towards the Eaſt end, where there is a Painted window above, and an Altar below, both which with the Rayles make up one great Idol. Then he is much taken with their Copes, &amp; Surplices, and ſinging books, &amp; (ſince ſome of the Gentlemen of the Chap<g ref="char:EOLhyphen"/>pel are come down) with the ſinging men too. But above all (as hath been obſerved) aſſoone as their Church Minſtrel with the long lock be gins to play his Arbitrary Jigge, he is as attentive as one of us private Chriſtians are at S. <hi>Antholins,</hi> and markes the Tune, as if there were Doctrine and Uſe in it, and if he could write ſhort hand, without all peradventure he would take it, as ſome of our great Ladies doe Sermons now in <hi>London.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>For Others behaviour to Him.</hi>
+               </head>
+               <p>3. FIrſt, (I remember I told you before of his Maſters kiſſing him, but not of his way of wooing him,) Prince <hi>Rupert</hi> never courts him without an expreſſe deteſtation of the Round<g ref="char:EOLhyphen"/>heads, ſo that he commonly takes the name of Gods Children in vaine. How much better were it to court him with Yea, and Nay, then to uſe ſuch Blaſphemies and Profanations? But the Repro<g ref="char:EOLhyphen"/>bate Dog takes it all ſo well, that he is not pleaſed with any one that ſpeakes to him civilly, or accoſts him otherwiſe then Ca<g ref="char:EOLhyphen"/>valier-like.</p>
+               <p>Next, all men in generall make much of him, and the truth is, they dare do no otherwiſe; For if they do, they are ſure to heare
+<pb facs="tcp:99466:4"/> of it in one misfortune or other. Tis obſerved that moſt of the Gentlemen that were killed at <hi>Edgehill</hi> had injured the Dogges reputation ſome way or other, and forgot to give him ſatisfaction before they went to the Battell. The Lo: <hi>Ta<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff</hi> did but ſpeak an<g ref="char:EOLhyphen"/>grily to him, and the ſame morning was ſhot in the mouth for it. The Lo: <hi>Bernart Stuard</hi> kickt him the night before the Batell, for hearkning what he ſaid to a faire Lady, and this ſpitefull Curre got him ſhot in the very ſame toe that kickt him. The King him<g ref="char:EOLhyphen"/>ſelf never dines nor ſups, but continually he feeds him. And with what think you? even with Rumps and Sideſmen of Capons, and ſuch Chriſtianlike morcells. And if this be not too prophane, I know not what is. For let his Majeſty profeſſe, and profeſſe, as long as he will, I beſeech you marke how I can come over him. Either he knowes this Dog is, or is not a Witch; If he knowes hee is a Witch, hee profanes againſt that place of Scripture that ſayes, <hi>Thou ſhalt not ſuffer a Witch to live.</hi> If he knowes he is not a Witch, then he prophanes againſt that other place, <hi>Caſt not that which is holy unto Dogges.</hi> For if the Rumps and Sideſmen in cram<g ref="char:EOLhyphen"/>med fowle be not the holy parts, I diſcerne not which are. But to returne. Majeſty may do any thing (as they ſay) and therefore it is thought the King will ſhortly call a Councell of War, and in imi<g ref="char:EOLhyphen"/>tation of our proceedings will make him a new Officer of State, Sergeant Major Generall <hi>Boy.</hi> Truly, truly, the Kings affection is ſo extraordinary to him, that ſome in the Court envy him, and others nouriſh feares and jealouſies of him. I heard a Gentleman Uſher ſweare the other day, that it was a great ſhame the Dogge ſhould ſit in the Kings Chaire, as he alwaies doth: and a great Lord was ſeriouſly of opinion, that it was not wel he ſhould con<g ref="char:EOLhyphen"/>verſe ſo much with the Kings Children, leſt he taught them to ſweare before they knew what an oath was.</p>
+               <p>One thing of very great moment I had almoſt forgot, and that is this. Whenever the Kings Councell is perſwading his Majeſty to an accommodation, aad reſolvedly preſſing him to returne to his other Councell the Parl. in comes this enemy to peace, and the Parliaments purpoſes, and (as if he could turne mens minds, as his Maſter doth the Winde before a Battell, by untying a knot of his Handkerchiefe) preſently they ſpeak of bloud, and war, and
+<pb facs="tcp:99466:5"/> the Deſtruction of <hi>London,</hi> and vow they have not power to think of any thing elſe. Now conſider if it be accounted Witch<g ref="char:EOLhyphen"/>craft to make men impotent in their Bodies, what is it to make them impotent at their minds?</p>
+               <p>
+                  <hi>Theſe particulars I thought good to ſend you, that out of ſo many you might pick what is of moſt conſequence for the good of the Com<g ref="char:EOLhyphen"/>monwealth, and the promotion of a Reformation.</hi>
+               </p>
+               <p>To ſumme up all. I beſeech you now conſider, That this Dog was once a Woman, but is now a profane Metamorphoſis Dog; that he propheſies as well as my Lady <hi>Davis,</hi> or Mother <hi>Shipton</hi> could, that he helps the Colledges to their loſt ſpoons and two-eared pots; that he ſpeakes as many Languages, and as hard ones as <hi>Satan</hi> or Maſter <hi>Rroughton;</hi> that he is as ſhot-free as if his skin were voted Impenetrable; that he can be inviſible when he will; inſomuch that he is often ſmelt where he is not ſeen; that he com<g ref="char:EOLhyphen"/>municates with that bloudy Prince, as his familiar; that he loves Organs, and true ſinging, and ſuch Diabolicall Charms; that he hath his private revenges ſtill going; and (what is above all this) that he diſcountenanced the Aldermans Petition; and tel me then is not this a Dog that is no Dog, but a Witch, a Sorcereſſe, an enemy to Parliament, (that is, to Church &amp; State) a meer Malig<g ref="char:EOLhyphen"/>nant Cavalier-Dog, that hath ſomething of divel in or about him?</p>
+               <p>Sir, I deſire you that I may be quit of all further employment in this nature; For it is impoſſible to deſtroy him, untill the Co<g ref="char:EOLhyphen"/>lonies of new <hi>England</hi> come in to helpe us: they know how to or<g ref="char:EOLhyphen"/>der theſe Dog-Witches better far then we. Brotherly aſſiſtance may then perhaps do ſomething. In the meane time you may doe wel to move it in the common Councell, that in their next Peti<g ref="char:EOLhyphen"/>tion they would inſert a Clauſe about his removall from the King. Thus I commit you to the protection of both Houſes, I reſt</p>
+            </div>
+            <closer>
+               <signed>Your worſhips moſt faithfull, and diligent ſervant, <hi>T. P.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99466:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
